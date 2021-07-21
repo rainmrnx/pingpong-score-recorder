@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PingPong Score Recorder</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <header>
+        <img src="https://images.unsplash.com/photo-1611251135345-18c56206b863?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+            alt="PingPong Image">
+        <div class="text-container">
+            <h2>PingPong Score Recorder</h2>
+        </div>
+    </header>
+    <main>
+        <div class="text-container">
+            <h1 id="score"><span id="score-p1">0</span> vs <span id="score-p2">0</span></h1>
+            <p class="text-grey">Use the buttons below to record score.</p>
+            <label for="playing-to">Playing to:</label>
+
+            <select name="playing-to" id="playing-to">
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+                <option value="11">11</option>
+            </select>
+        </div>
+        <div class="btn-container">
+            <button id="btn-1">+1 Player One</button>
+            <button id="btn-2">+1 Player Two</button>
+            <button id="btn-reset">Reset</button>
+        </div>
+    </main>
+
+    <script src="main.js"></script>
+</body>
+
+</html>

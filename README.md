@@ -1,6 +1,8 @@
 # PingPong Score Recorder
 A course project from [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/). This is my first "website" written using JavaScript!
 
+[Link to the website](https://yiheng092.github.io/pingpong-score-recorder/)
+
 ## Preview 
 ![Imgur](https://i.imgur.com/F9IYKix.png)
 

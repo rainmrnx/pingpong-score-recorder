@@ -4,4 +4,4 @@ A course project from [The Web Developer Bootcamp 2021](https://www.udemy.com/co
 ## Preview 
 ![Imgur](https://i.imgur.com/F9IYKix.png)
 
-Photo by Lisa Keffer, [link](https://unsplash.com/photos/3B8nIiT-Pmc)
+Photo by Lisa Keffer, <a href="https://unsplash.com/photos/3B8nIiT-Pmc" target="_blank">link</a>
